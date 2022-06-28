@@ -1,0 +1,32 @@
+html{
+    background-color: #F2A900;
+}
+p{
+    color: black;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+form{
+    color: black;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+input{
+    color: black;
+    font-family: Roboto, sans-serif;
+}
+ul{
+    color: black;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    list-style: none;
+    padding-right: 40px;
+}
+button{
+    font-family: Roboto, sans-serif;
+    cursor: pointer;
+    width: 250px;
+}
